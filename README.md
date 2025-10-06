@@ -1,6 +1,8 @@
-# AI Paper Correction
+# 🤖 AI-Powered Answer Sheet Evaluator
 
 A Python application to listen to Telegram chats and receive message content using the Telegram Bot API.
+
+![Output](./output/paper_correction.gif)
 
 ## Features
 

@@ -1,4 +1,4 @@
-# Telegram Chat Listener
+# AI Paper Correction
 
 A Python application to listen to Telegram chats and receive message content using the Telegram Bot API.
 
